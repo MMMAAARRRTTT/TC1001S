@@ -5,5 +5,7 @@ MARCO MONTOYA
 ## MATRICULA
 A01254155
 ## LISTADO DE EJERCICIOS
-* El programa prueba.c es un ejemplo para la compilación con el lenguaje c
-* El programa pruebapy.py es un ejemplo para la ejecución con python
+* El programa prueba.c es un ejemplo para la compilación con el lenguaje c.
+* El programa pruebapy.py es un ejemplo para la ejecución con python.
+* La carpeta Act01,, contiene el programa paint.py, que es un paint programado en python.
+* La carpeta Act02, contiene el programa snake.py que es un juego snake programado en python.
