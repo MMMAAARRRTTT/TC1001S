@@ -13,4 +13,8 @@ Al empezar la programación del laberinto, se nos complicó el adaptar el movimi
 * Se declaran funciones de movimiento, dentro de estas, se elige a que dirección irá el personaje y al final de cada una, se limpia la pantalla para que el "paso" se vea reflejado.
 * Por ultimo, se declara el tamaño de la ventana del juego, y se mete en un ciclo while las líneas que llaman a la función de dirección, para que estas funciones se puedan realizar múltiples veces.
 * Al terminar el laberinto, saltará una pagina en negro, que tendrá reflejada el mensaje "GANASTE, FELICIDADES, COMPLETASTE EL MAPA".
+
+### ENLACE AL VIDEO
+	https://youtu.be/_n_4OZROdAI
+
 ##### Marco Tulio Montoya - A01254155

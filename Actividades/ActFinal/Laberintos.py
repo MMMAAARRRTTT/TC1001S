@@ -115,8 +115,10 @@ elif n_random == 2:
 
 def Pantalla_win(): #Pantalla final, cuando llegas al cuadro amarrillo aparece esta pantalla
     setup(700, 700) #Hecho por: Luis Rico
+    clearscreen()
+    hideturtle()
     bgcolor("black")
-    write("GANASTE, FEELICIDADES, COMPLETASTE EL MAPA", color("white"), font=("Arial",20,"normal"),align="center")
+    write("GANASTE, FELICIDADES, COMPLETASTE EL MAPA", color("white"), font=("Arial",20,"normal"),align="center")
 
 # Funcion para dibujar un cuadrado en el mundo
 # Hecho por: Angel Marin
@@ -234,8 +236,8 @@ def derecha():
     if (mapa[posicion+1] == 1):
         mapa[posicion+1] = 2
         mapa[posicion] = 1
-    elif (mapa[posicion-1] == 4):
-        mapa[posicion-1] = 2
+    elif (mapa[posicion+1] == 4):
+        mapa[posicion+1] = 2
         mapa[posicion] = 1
         llave = True
     elif (mapa[posicion+1] == 3 and llave == True):
