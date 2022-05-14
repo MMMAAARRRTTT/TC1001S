@@ -14,4 +14,4 @@ A01254155
 
 * La carpeta ActFinal contiene el proyecto final del curso, un juego de laberintos, realizado  en equipo y utilizando todas las herramientas vistas en clase
 
-** Dentro de cada fichero de actividades, se encuentra el código de la actividad y un archivo README, que habla de todas las especificaciones que tiene cada archivo, dentro del archivo ActFinal, se encuentra el enlace al video sobre la presentación final. **
+**Dentro de cada fichero de actividades, se encuentra el código de la actividad y un archivo README, que habla de todas las especificaciones que tiene cada archivo, dentro del archivo ActFinal, se encuentra el enlace al video sobre la presentación final.**
